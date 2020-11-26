@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FullStackExample", "src\Ful
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FullStackExample.Api", "src\FullStackExample.Api\FullStackExample.Api.csproj", "{B9E6DD40-73F9-44A3-9A6E-55BBB652EB19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullStackExample.Tests", "src\FullStackExample.Tests\FullStackExample.Tests.csproj", "{2948E116-2471-4F80-9CCD-0E4556033BEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B9E6DD40-73F9-44A3-9A6E-55BBB652EB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9E6DD40-73F9-44A3-9A6E-55BBB652EB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9E6DD40-73F9-44A3-9A6E-55BBB652EB19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2948E116-2471-4F80-9CCD-0E4556033BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2948E116-2471-4F80-9CCD-0E4556033BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2948E116-2471-4F80-9CCD-0E4556033BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2948E116-2471-4F80-9CCD-0E4556033BEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
